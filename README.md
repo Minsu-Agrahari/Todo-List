@@ -33,7 +33,6 @@ Todo-List/
 1. Clone the repository:
    ```
    git clone https://github.com/Minsu-Agrahari/Todo-List.git
-  ``
 
 2. Open the folder in your code editor.
 
@@ -48,7 +47,7 @@ That’s it! You’re ready to use the To-Do List app.
 <img width="672" height="355" alt="image" src="https://github.com/user-attachments/assets/d5627b8d-2612-4af1-8698-ae6f0f42a15e" />
 <img width="618" height="459" alt="image" src="https://github.com/user-attachments/assets/a426ee46-5d0e-4ce6-9ab3-21e268fceb52" />
 
-
+---
 
 ## 🙌 Contributing
 
@@ -62,5 +61,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ### 👨‍💻 Developed by [Minsu Agrahari](https://github.com/Minsu-Agrahari)
 
-- or convert it into Hindi/another language.
 ```
